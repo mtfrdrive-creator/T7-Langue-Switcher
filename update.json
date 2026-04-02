@@ -1,10 +1,6 @@
 {
   "version": "1.0.0",
   "mandatory": false,
-  "changelog": "Bienvenue sur le T7 Langue Switcher !
-
-Ceci est une version bêta. Des correctifs et améliorations seront ajoutés au fil du temps afin d’améliorer votre expérience.
-
-Merci pour votre compréhension et votre soutien !.",
+  "changelog": "Bienvenue sur le T7 Langue Switcher ! Ceci est une version bêta. Des correctifs et améliorations seront ajoutés au fil du temps afin d’améliorer votre expérience. Merci pour votre compréhension et votre soutien !.",
   "download_url": ""
 }
